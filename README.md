@@ -1,3 +1,3 @@
 # LeetcodeInJs
 
-..sucks
+**_try LeetCode in JavaScript_**
